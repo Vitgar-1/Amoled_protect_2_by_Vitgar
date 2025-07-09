@@ -49,7 +49,7 @@
 [Скачать APK](https://github.com/Amoled_protect_2_by_Vitgar/AMOLED_Protect/releases/latest)
 
 ```bash
-git clone https://github.com/yourusername/AMOLED_Protect.git
+git clone https://github.com/Amoled_protect_2_by_Vitgar/AMOLED_Protect.git
 Открыть в Android Studio
 ```
 
