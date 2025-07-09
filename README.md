@@ -46,7 +46,7 @@
 
 ## Установка
 
-[Скачать APK](https://github.com/yourusername/AMOLED_Protect/releases/latest)
+[Скачать APK](https://github.com/Amoled_protect_2_by_Vitgar/AMOLED_Protect/releases/latest)
 
 ```bash
 git clone https://github.com/yourusername/AMOLED_Protect.git
