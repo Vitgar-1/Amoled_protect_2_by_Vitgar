@@ -1,7 +1,4 @@
 # AMOLED Protect
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## История создания
 
 Как пользователь TikTok, я столкнулся с проблемой выгорания AMOLED-экрана из-за постоянно горящих белых иконок в приложении. Найдя в интернете старое приложение, создающее защитные черные полосы, я обнаружил, что оно не работает на современных версиях Android.
@@ -56,6 +53,3 @@ git clone https://github.com/yourusername/AMOLED_Protect.git
 Открыть в Android Studio
 ```
 
-## Лицензия
-
-Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](LICENSE).
