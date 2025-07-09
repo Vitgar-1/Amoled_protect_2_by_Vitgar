@@ -46,10 +46,10 @@
 
 ## Установка
 
-[Скачать APK](https://github.com/Amoled_protect_2_by_Vitgar/AMOLED_Protect/releases/latest)
+[Скачать APK](https://github.com/Vitgar-1/Amoled_protect_2_by_Vitgar/releases/latest)
 
 ```bash
-git clone https://github.com/Amoled_protect_2_by_Vitgar/AMOLED_Protect.git
+git clone https://github.com/Vitgar-1/Amoled_protect_2_by_Vitgar/AMOLED_Protect.git
 Открыть в Android Studio
 ```
 
